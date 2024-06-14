@@ -4,9 +4,13 @@ Accurate analysis of employee data and performance by the Human Resources depart
 
 # In this analysis, I aim to answer the following questions:
   How many employees are eligible for promotion, having not been promoted in the last 10 years, and what is their proportion?
+  
   What are the years of service for the employees?
+  
   What is the distribution of employees across occupation levels from 1 to 5?
+  
   We plan to dismiss employees who have been with the company for 18 years, while the rest will stay. How many employees will be laid off, and how many will remain?
+  
   How far do employees live from the office?
   What is the departmental distribution of employees who will be promoted or fired, and which department will see the most changes?
   What are the levels of job satisfaction among employees?
