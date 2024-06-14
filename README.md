@@ -12,11 +12,17 @@ Accurate analysis of employee data and performance by the Human Resources depart
   We plan to dismiss employees who have been with the company for 18 years, while the rest will stay. How many employees will be laid off, and how many will remain?
   
   How far do employees live from the office?
+  
   What is the departmental distribution of employees who will be promoted or fired, and which department will see the most changes?
+  
   What are the levels of job satisfaction among employees?
+  
   What percentage of employees are working overtime?
+  
   When evaluating employee performance as high or low, what are the respective ratios?
+  
   What are the total numbers and distributions of employees, promotions, and dismissals across different occupational roles?
+  
   Who are the employees that will be promoted or fired?
 
 # Insights
