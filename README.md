@@ -66,6 +66,7 @@ Accurate analysis of employee data and performance by the Human Resources depart
 
 # HR Dashboard Page (Home, Detail, Action)
 For more details about the project step by step and what dax queries i have used and their explanation, please visit the article that i have shared in medium from the link below:
+
 https://medium.com/@israksamir353/crafting-an-innovative-hr-dashboard-with-powerbi-f6c95f85afba
 
 ![ezgif com-pdf-to-gif-converter](https://github.com/samirsivan/HR_Dashboard_PowerBI/assets/172359838/16886ba1-d863-429c-ac9f-f240246f7c8d)
