@@ -53,5 +53,6 @@ Accurate analysis of employee data and performance by the Human Resources depart
   These recommendations aim to optimize employee development, motivation, and satisfaction while aligning organizational decisions with performance-based criteria for a more   effective workforce management strategy.
 
 # HR Dashboard Page (Home, Detail, Action)
+![ezgif com-pdf-to-gif-converter](https://github.com/samirsivan/HR_Dashboard_PowerBI/assets/172359838/16886ba1-d863-429c-ac9f-f240246f7c8d)
 
 
