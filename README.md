@@ -17,27 +17,27 @@ Accurate analysis of employee data and performance by the Human Resources depart
 
 # Insights
 
-    Total Employees:  There are 1,470 employees.
-    
-    Promotion Eligibility:  72 employees, who have not been promoted for 10 years or more, need to be promoted.
-    
-    Years of Service:  The majority of employees have been working for at least 5 years. There are 44 new employees.
-    
-    Layoffs:  117 employees who have been with the company for 18 years or more need to be laid off.
-    
-    Job Levels:  The majority of employees are at job levels 1 and 2.
-    
-    Departmental Changes:  In the Research and Development department, 47 employees will be promoted, and 74 will be laid off, indicating significant changes in this   
-    department.
-    
-    Job Satisfaction:  There are no significant differences in job satisfaction levels. Although there are more employees with high job satisfaction, 459 employees have low 
-    job satisfaction.
-    
-    Overtime:  Approximately 30% of the employees work overtime.
-    
-    Performance Ratings: 84.6% of the employees have a high performance rating. 15.4% have a low performance rating.
-    
-    Roles: The sales manager role has the highest number of employees. The highest number of promotions and layoffs occur in the manager role.
+  Total Employees:  There are 1,470 employees.
+  
+  Promotion Eligibility:  72 employees, who have not been promoted for 10 years or more, need to be promoted.
+  
+  Years of Service:  The majority of employees have been working for at least 5 years. There are 44 new employees.
+  
+  Layoffs:  117 employees who have been with the company for 18 years or more need to be laid off.
+  
+  Job Levels:  The majority of employees are at job levels 1 and 2.
+  
+  Departmental Changes:  In the Research and Development department, 47 employees will be promoted, and 74 will be laid off, indicating significant changes in this   
+  department.
+  
+  Job Satisfaction:  There are no significant differences in job satisfaction levels. Although there are more employees with high job satisfaction, 459 employees have low 
+  job satisfaction.
+  
+  Overtime:  Approximately 30% of the employees work overtime.
+  
+  Performance Ratings: 84.6% of the employees have a high performance rating. 15.4% have a low performance rating.
+  
+  Roles: The sales manager role has the highest number of employees. The highest number of promotions and layoffs occur in the manager role.
 
 # Recommendations
   Based on the analysis, the following recommendations are proposed:
