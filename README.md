@@ -1,4 +1,4 @@
-# HR_PowerBI
+# HR Dashboard using PowerBI to manage employees efficiently
 
 Accurate analysis of employee data and performance by the Human Resources department positively impacts company success. To remain competitive and minimize costs, employers adopt Business Intelligence, allowing direct observation of employee performance and processes through dashboards.
 
